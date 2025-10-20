@@ -15,3 +15,11 @@
 **Tool:** ChatGPT (GPT-5 Thinking)
 
 **Output:** Added `postcss` block to `nuxt.config.ts` and removed `postcss.config.cjs`.
+
+## 2025-10-20 - Implement Server API with Faker + Zod
+
+**Prompt:** “Write erver routes for `GET /api/profiles?count&seed` and `GET /api/profile/:id`. Need to use faker to synthesize fields (≥10 attributes) and zod to validate responses. Provide deterministic generation using a seed string and a simple hash. Avatars: TestingBot with `?u=` seed and size variants.”
+
+**Tool:** ChatGPT (GPT-5 Thinking)
+
+**Output:** Added server apis and profile types.
