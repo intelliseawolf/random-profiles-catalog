@@ -25,6 +25,12 @@ export default defineNuxtConfig({
       ],
     },
   },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
   typescript: { strict: true },
   nitro: { preset: "node" },
 });
