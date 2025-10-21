@@ -23,3 +23,11 @@
 **Tool:** ChatGPT (GPT-5 Thinking)
 
 **Output:** Added server apis and profile types.
+
+## 2025-10-21 - Implement Server API with Faker + Zod
+
+**Prompt:** “Create a single composable `useApiClient` that is the only place to call the API. Use `$fetch` with TypeScript types and parse responses through Zod schemas to guarantee correctness.”
+
+**Tool:** ChatGPT (GPT-5 Thinking)
+
+**Output:** Generated useApiClient composable in the app directory.
