@@ -39,3 +39,11 @@
 **Tool:** ChatGPT (GPT-5 Thinking)
 
 **Output:** Generated ProfileCard, LoadingSpinner, ErrorState, SkeletonCard in the components directory.
+
+## 2025-10-21 - UI Pages
+
+**Prompt:** “Create three pages: `/` Home (gallery from `/api/profiles`), `/search` that always shows exactly 10 profiles and supports an optional deterministic seed, and `/profile/:id` details. Use `useAsyncData`, show pending/error states, and maintain responsive grid layouts.”
+
+**Tool:** ChatGPT (GPT-5 Thinking)
+
+**Output:** Created home(profiles), search and detail page.
