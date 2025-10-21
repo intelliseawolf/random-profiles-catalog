@@ -24,7 +24,7 @@
 
 **Output:** Added server apis and profile types.
 
-## 2025-10-21 - Implement Server API with Faker + Zod
+## 2025-10-21 - Typed API Client Module
 
 **Prompt:** “Create a single composable `useApiClient` that is the only place to call the API. Use `$fetch` with TypeScript types and parse responses through Zod schemas to guarantee correctness.”
 
