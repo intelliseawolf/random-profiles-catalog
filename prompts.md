@@ -31,3 +31,11 @@
 **Tool:** ChatGPT (GPT-5 Thinking)
 
 **Output:** Generated useApiClient composable in the app directory.
+
+## 2025-10-21 - UI Components (A11Y + Loading/Error/Skeleton)
+
+**Prompt:** “Build Vue components with Tailwind CSS: `ProfileCard`, `LoadingSpinner` (with ARIA live region), `ErrorState`, and `SkeletonCard`. Use focus rings, alt text, smooth transitions, and responsive cards.”
+
+**Tool:** ChatGPT (GPT-5 Thinking)
+
+**Output:** Generated ProfileCard, LoadingSpinner, ErrorState, SkeletonCard in the components directory.
