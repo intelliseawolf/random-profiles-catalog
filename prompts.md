@@ -47,3 +47,11 @@
 **Tool:** ChatGPT (GPT-5 Thinking)
 
 **Output:** Created home(profiles), search and detail page.
+
+## 2025-10-22 - Documentation
+
+**Prompt:** “Write README.md explaining stack, API endpoints, run instructions, A11Y/SEO notes, and the requirement that the client consumes only the local API. Include TestingBot avatar notes.”
+
+**Tool:** ChatGPT (GPT-5 Thinking)
+
+**Output:** Updated README.md file.
